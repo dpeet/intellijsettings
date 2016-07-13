@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="TodoScope" />
-    <option name="defaultScopeName" value="TodoScope" />
+    <option name="customScope" value="meteorscope" />
+    <option name="defaultScopeName" value="meteorscope" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="TodoScope" />
+    <option name="SEARCH_SCOPE" value="meteorscope" />
   </component>
 </application>
